@@ -1,3 +1,3 @@
 # TextPad
 
-FeatherPad + notepad2
+cross platform text editor: FeatherPad + notepad2 + notepad++
